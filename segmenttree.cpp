@@ -1,3 +1,6 @@
+/*
+implement segment tree to solve range sum query.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
