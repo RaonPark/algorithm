@@ -1,5 +1,6 @@
 /*
 implement segment tree to solve range sum query.
+i referred https://github.com/stevenhalim/cpbook-code
 */
 #include <bits/stdc++.h>
 using namespace std;
